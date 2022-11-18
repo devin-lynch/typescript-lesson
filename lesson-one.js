@@ -6,10 +6,14 @@
 // let guess;
 // guess = 'green';
 // guess = 2;
-var phoneNumber;
-if (Math.random() > 0.5) {
-    phoneNumber = '+61770102062';
-}
-else {
-    phoneNumber = '7167762323';
-}
+// let phoneNumber : string;
+// if (Math.random() > 0.5) {
+//   phoneNumber = '+61770102062';
+// } else {
+//   phoneNumber = '7167762323';
+// }
+var band;
+band = 'Hop Along';
+console.log(band);
+band = 'Actually Im a Ghost';
+console.log(band);

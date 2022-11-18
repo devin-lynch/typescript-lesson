@@ -13,10 +13,17 @@
 // guess = 2;
 
 
-let phoneNumber : string;
+// let phoneNumber : string;
 
-if (Math.random() > 0.5) {
-  phoneNumber = '+61770102062';
-} else {
-  phoneNumber = '7167762323';
-}
+// if (Math.random() > 0.5) {
+//   phoneNumber = '+61770102062';
+// } else {
+//   phoneNumber = '7167762323';
+// }
+
+
+// let band : string;
+// band = 'Hop Along'
+// console.log(band)
+// band = 'Actually Im a Ghost'
+// console.log(band)
